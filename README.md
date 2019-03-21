@@ -1,7 +1,9 @@
 # RestFull-API-for-e-commerce
 Restful API for e-commerce app based on node js and data saved in mongoDB by Shojib97
 
-CRUD
+Run on WebStrom terminal using 'node index.js'
+
+Simple CRUD Commands
 
 ////////////////////////////////////////////////////////
 ///////////////////////ACCOUNTS//////////////////////////
